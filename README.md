@@ -1,5 +1,5 @@
 
-# Eazyrooms
+# Car-rental
 
 ## Overview
 The Car Rental System is a software application designed to manage the renting of cars by customers. It allows users to browse available cars, make reservations, and manage bookings efficiently. The system is intended to simplify the process for both the rental company and customers, ensuring a smooth rental experience.
